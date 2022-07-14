@@ -1,0 +1,8 @@
+const actionTypes = {
+    FETCH_COMMENT_LIST_REQUEST: "comments/FETCH_COMMENT_LIST_REQUEST",
+    FETCH_COMMENT_LIST_ERROR: "comments/FETCH_COMMENT_LIST_ERROR",
+    FETCH_COMMENT_LIST_SUCCESS: "comments/FETCH_COMMENT_LIST_SUCCESS",
+
+};
+
+export default actionTypes;
